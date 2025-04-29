@@ -144,4 +144,25 @@ apps.tk-mari-projectmanager.location:
   name: tk-mari-projectmanager
   type: app_store
   version: v1.4.1
+
+apps.tk-multi-version.location:
+  name: tk-multi-version
+  type: git
+  path: https://github.com/onetera/tk-multi-version.git
+    
+
+apps.tk-download.location:
+  name: tk-download
+  type: git
+  path: https://github.com/onetera/tk-download.git
+
+
+apps.tk-desktop-timecard:
+  name: tk-desktop-timeacrd
+  type: git
+  path: https://github.com/onetera/tk-desktop-timecard.git
+
+
+
+
 frameworks: '@frameworks'
