@@ -51,6 +51,7 @@ primary:
     mac_path: /show
     linux_path: /show
     windows_path: c:\show
+    shotgun_storage_id: 3
 
     # indicates that this is the default storage root
     default: true
